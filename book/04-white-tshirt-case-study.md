@@ -1,8 +1,8 @@
 # The Plain White T-Shirt Case Study
 
-A plain white T-shirt is one of the best products for studying persuasion, archetype, and design language because it is simple, familiar, and easy to misunderstand. It is not a luxury object, but it can be sold as a symbol of freedom, discipline, identity, taste, rebellion, or belonging. The product itself is mostly the same. The meaning changes because the brand, message, and visual language around it change.
+A plain white T-shirt is one of the best products for studying persuasion, archetype, and design language because it is simple, familiar, and easy to misunderstand. It is not a luxury object, but it can be sold as a symbol of freedom, discipline, identity, taste, rebellion, or belonging, just like a coffee roaster's limited-run shirt or a trail label's everyday essential. The product itself is mostly the same. The meaning changes because the brand, message, and visual language around it change.
 
-This is the heart of the case study: the same shirt can be positioned as different products for different customers.
+This is the heart of the case study: the same shirt can be positioned as different products for different customers, industries, and communities.
 
 ## The Core Product
 

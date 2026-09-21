@@ -1,6 +1,6 @@
 # Persuasion and Human Decision-Making
 
-Persuasion is not magic. It is the process of helping people notice something, understand it in a certain way, trust it, and decide whether to act. In design and branding, persuasion shapes attention, interpretation, and action. It can help someone see a product as useful, trustworthy, meaningful, or worth the price. It can also be used badly.
+Persuasion is not magic. It is the process of helping people notice something, understand it in a certain way, trust it, and decide whether to act. In design and branding, persuasion shapes attention, interpretation, and action. It can help someone see a coffee roaster as trustworthy, an outdoor brand as authentic, or a product as worth the price. It can also be used badly.
 
 A useful way to think about persuasion is this: it is not simply about making someone say yes. It is about helping a person make a better decision with enough information, context, and clarity to choose freely.
 
@@ -10,14 +10,14 @@ Persuasion is a form of communication that aims to influence how someone thinks 
 
 For example, the same plain white T-shirt can be presented in different ways:
 
-- as a basic, affordable staple
-- as a premium, limited-edition garment
-- as a minimalist statement of taste
-- as a cultural symbol or community item
+- as a basic, affordable staple for daily life
+- as a premium, limited-run garment for a design-conscious customer
+- as a minimalist statement for a creative studio or small-batch brand
+- as a cultural symbol for a trail crew, coffee community, or neighborhood identity
 
 The shirt itself does not change. What changes is the frame. Persuasion helps people interpret that shirt differently: as practical, luxurious, expressive, or meaningful.
 
-That is why persuasion matters in design, advertising, packaging, product strategy, and everyday communication. It helps people connect a product or message to a need, a desire, a value, or a story they already care about.
+That is why persuasion matters in design, advertising, packaging, product strategy, and everyday communication. It helps people connect a product or message to a need, a desire, a value, or a story they already care about, whether that story is about hiking, coffee, craft, or belonging.
 
 ## Persuasion Is Not the Same as Manipulation
 

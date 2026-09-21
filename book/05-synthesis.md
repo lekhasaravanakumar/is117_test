@@ -1,8 +1,8 @@
 # Synthesis: Persuasion, Archetypes, and Design Language in AI-Assisted Work
 
-The previous chapters each looked at one lens: persuasion, archetypes, and design language. Taken separately, they explain how people choose, how brands create meaning, and how visual systems shape interpretation. Taken together, they form a practical framework for directing creative and technical work, including work with AI.
+The previous chapters each looked at one lens: persuasion, archetypes, and design language. Taken separately, they explain how people choose, how brands create meaning, and how visual systems shape interpretation. Taken together, they form a practical framework for directing creative and technical work, including work with AI in design studios, startup teams, coffee brands, and outdoor product companies.
 
-This is not just a theory chapter. It is a working model for how to make decisions under uncertainty.
+This is not just a theory chapter. It is a working model for how to make decisions under uncertainty, especially when the goal is to turn a basic product or service into something people feel is worth choosing.
 
 ## One Framework, Three Questions
 

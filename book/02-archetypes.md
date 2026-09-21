@@ -1,6 +1,6 @@
 # Brand Archetypes and Meaning
 
-A brand is not just a product or a logo. It also carries meaning. People do not buy only functions; they buy signals about identity, values, and belonging. A simple object can become a meaningful purchase when it helps a person feel a certain way or imagine a certain version of themselves.
+A brand is not just a product or a logo. It also carries meaning. People do not buy only functions; they buy signals about identity, values, and belonging. A simple object can become a meaningful purchase when it helps a person feel a certain way or imagine a certain version of themselves, whether that version is a trail runner, a coffee-shop regular, a design-minded maker, or a local brand loyalist.
 
 This is where brand archetypes are useful. Archetypes are recognizable patterns of meaning that help brands communicate a clear emotional and cultural role. They are not personality labels written in stone. They are practical storytelling tools that help explain how a brand wants to be understood.
 

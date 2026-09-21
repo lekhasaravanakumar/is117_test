@@ -1,8 +1,8 @@
-# The White T-Shirt Guide to Persuasion, Archetypes, and Design
+# The White T-Shirt Guide to Outdoor, Coffee, and Independent Design
 
-This mini textbook introduces a simple idea: the same product can be presented in many different ways depending on how we shape attention, meaning, and visual language.
+This mini textbook is built for a student who likes practical design, local brands, outdoor culture, coffee shops, and the feeling of a product that looks simple but carries a story.
 
-Across five chapters, the guide explores how persuasion influences decision-making, how brands create identity through archetypes, how design traditions shape interpretation, and how these ideas work together in real communication and AI-assisted design work.
+The guide explores how persuasion shapes choices, how archetypes create brand meaning, and how visual language makes a product feel trustworthy, rebellious, premium, or deeply human. The recurring example is a plain white T-shirt, because even a simple object can carry different identities depending on who is telling the story.
 
 ## Chapters
 
@@ -14,13 +14,14 @@ Across five chapters, the guide explores how persuasion influences decision-maki
 
 ## How to Use This Guide
 
-Read the chapters in order for the full progression from basic ideas to practical synthesis.
+Read the chapters in order to move from broad ideas to concrete branding decisions.
 
-You can also use the book as a reference for:
+This guide is especially useful for thinking about:
 
-- understanding how branding and communication shape meaning
-- comparing different visual languages
-- studying how a single product can be framed in different ways
-- thinking about how AI work benefits from clear intent and structure
+- independent outdoor brands
+- coffee shop merchandise and hospitality branding
+- small-batch product design
+- creative studios and design-led businesses
+- AI-assisted work that still needs human judgment
 
-The recurring case study is a plain white T-shirt, because it is simple enough to analyze and rich enough to show how meaning is created.
+The recurring case study is a plain white T-shirt because it lets us see how the same physical product can be sold as a trail-ready essential, a design-studio statement, or a premium everyday staple.

@@ -1,6 +1,6 @@
 # Design Language: Modernism, Postmodernism, and Visual Meaning
 
-Design is not just decoration. It is a system of choices about how information is organized, how attention is directed, and how meaning is communicated. A visual language tells people what to notice first, what to trust, and how a product or message should feel.
+Design is not just decoration. It is a system of choices about how information is organized, how attention is directed, and how meaning is communicated. A visual language tells people what to notice first, what to trust, and how a product or message should feel. For a coffee roaster, an outdoor label, or a design studio, the visual language can make the difference between looking dependable and looking disposable.
 
 This chapter focuses on two major traditions in design history: modernism and postmodernism. These are not simple labels for one era or one style. They are broader ways of thinking about order, clarity, identity, and expression.
 
